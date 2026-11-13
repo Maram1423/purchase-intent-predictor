@@ -2,7 +2,7 @@
 
 Most online store visitors leave without buying. This project predicts from a browsing session whether the visitor will purchase, so the store can show a coupon or a chat assistant only to the visitors who need it, instead of giving discounts to everyone.
 
-**👉 Live app:** [PASTE YOUR STREAMLIT LINK HERE]
+  **👉 Live app:** [https://purchase-intent-predictor-gbahealvuy4fsxd97zfhhw.streamlit.app/
 
 ![App screenshot](screenshot.png)
 <!-- Upload a screenshot of your app to the repo and name it screenshot.png -->
